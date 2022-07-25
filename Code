@@ -1,0 +1,8 @@
+```on place of sandstone:
+    if player's world is "HIER WELT-NAMEN EINFÜGEN":
+        wait 2 seconds
+        if player's gamemode is creative:
+            if event-block is sandstone:
+                set event-block to a 179
+                wait 1 second
+                set event-block to air```
